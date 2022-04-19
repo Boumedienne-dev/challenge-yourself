@@ -25,10 +25,15 @@ h1 {
     font-size: 20px
 }
 
+img {
+    border-radius: 50%;
+}
+
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
-    color: rgb(240, 184, 16)
+    color: rgb(240, 184, 16);
+    margin-bottom: 3%;
 }
 
 .preparation {
@@ -38,5 +43,6 @@ h2 {
     }
 
     form {
-        
+        margin:0 auto;
+        width: 300px;
     }
