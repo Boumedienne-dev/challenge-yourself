@@ -42,6 +42,20 @@ h2 {
     font-size: 18px;
     }
 
+table {
+    border-collapse:collapse;
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: blanchedalmond;
+    margin: auto;
+    text-align: center;
+    border: 2px solid black;
+    padding: 2px;
+}
+
+
+
+}
     form {
         margin:0 auto;
         width: 300px;
